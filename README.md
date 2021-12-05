@@ -1,5 +1,5 @@
 # gorestkafka
-Golang REST API to kafka (basic implemenation)
+Golang REST API to kafka (basic implemenation) on fasthttp and fasthttp/websocket
 
 
 # Usage
